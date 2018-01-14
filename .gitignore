@@ -1,0 +1,5 @@
+node_modules
+migrations
+build
+test
+contracts/merged
